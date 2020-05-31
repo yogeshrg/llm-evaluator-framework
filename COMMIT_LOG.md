@@ -111,3 +111,4 @@
 ## 2020-01-26 14:59:51 - feat(infra): add infra endpoint (16/20)
 ## 2020-04-12 14:05:44 - feat(data): implement data module (18/20)
 ## 2020-05-24 21:42:15 - feat(config): implement config feature (7/20)
+## 2020-05-31 10:42:30 - feat(auth): implement auth module (17/20)
