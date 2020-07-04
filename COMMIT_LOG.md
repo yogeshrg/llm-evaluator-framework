@@ -3,3 +3,4 @@
 ## 2020-04-12 14:05:44 - feat(data): implement data module (18/20)
 ## 2020-05-24 21:42:15 - feat(config): implement config feature (7/20)
 ## 2020-05-31 10:42:30 - feat(auth): implement auth module (17/20)
+## 2020-07-04 19:52:02 - feat(worker): add worker support (13/20)
