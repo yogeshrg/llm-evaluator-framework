@@ -224,3 +224,4 @@
 ## 2020-07-04 19:52:02 - feat(worker): add worker support (13/20)
 ## 2020-08-22 21:35:50 - feat(data): implement data feature (10/20)
 ## 2020-08-29 22:49:23 - feat(core): create core handler (12/20)
+## 2020-11-07 11:13:17 - feat(db): implement db feature (13/20)
