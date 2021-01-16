@@ -118,3 +118,4 @@
 ## 2020-11-07 11:13:17 - feat(db): implement db feature (13/20)
 ## 2020-11-28 15:36:09 - feat(ui): implement ui feature (6/20)
 ## 2020-12-10 19:00:14 - feat(deploy): add deploy support
+## 2021-01-16 19:10:38 - feat(ui): create ui handler (11/20)
