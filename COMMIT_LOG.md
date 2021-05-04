@@ -122,3 +122,4 @@
 ## 2021-02-04 10:39:49 - feat(test): implement test module
 ## 2021-02-24 12:03:30 - feat(core): implement core module
 ## 2021-03-08 10:40:11 - feat(alert): add alert endpoint
+## 2021-05-04 20:10:12 - feat(core): implement core feature
