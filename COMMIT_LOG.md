@@ -126,3 +126,4 @@
 ## 2021-05-08 15:05:09 - feat(worker): implement worker feature (12/20)
 ## 2021-05-15 13:37:53 - feat(queue): implement queue module (12/20)
 ## 2021-05-16 15:25:23 - feat(test): implement test feature (16/20)
+## 2021-06-06 22:21:12 - feat(infra): add infra support (11/20)
