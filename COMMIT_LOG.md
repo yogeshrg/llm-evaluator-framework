@@ -127,3 +127,4 @@
 ## 2021-05-15 13:37:53 - feat(queue): implement queue module (12/20)
 ## 2021-05-16 15:25:23 - feat(test): implement test feature (16/20)
 ## 2021-06-06 22:21:12 - feat(infra): add infra support (11/20)
+## 2021-08-07 21:15:03 - feat(auth): implement auth module (11/20)
