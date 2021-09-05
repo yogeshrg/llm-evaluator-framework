@@ -128,3 +128,4 @@
 ## 2021-05-16 15:25:23 - feat(test): implement test feature (16/20)
 ## 2021-06-06 22:21:12 - feat(infra): add infra support (11/20)
 ## 2021-08-07 21:15:03 - feat(auth): implement auth module (11/20)
+## 2021-09-05 23:31:17 - feat(ci): add ci support (18/20)
