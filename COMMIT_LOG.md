@@ -23,3 +23,4 @@
 ## 2021-09-26 12:11:46 - feat(ui): implement ui module (18/20)
 ## 2021-10-03 20:06:41 - feat(model): implement model module (18/20)
 ## 2021-10-31 13:43:39 - feat(db): create db handler (20/20)
+## 2021-11-14 20:15:45 - feat(queue): implement queue feature (7/20)
