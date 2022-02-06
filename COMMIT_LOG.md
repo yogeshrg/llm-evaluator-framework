@@ -354,3 +354,4 @@
 ## 2021-11-21 20:23:57 - feat(log): add log support (18/20)
 ## 2021-11-27 18:52:10 - feat(auth): add auth support (6/20)
 ## 2022-01-03 09:03:24 - feat(data): implement data module
+## 2022-02-06 15:54:52 - feat(security): implement security feature (20/20)
