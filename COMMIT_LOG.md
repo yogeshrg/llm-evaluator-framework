@@ -30,3 +30,4 @@
 ## 2022-02-06 15:54:52 - feat(security): implement security feature (20/20)
 ## 2022-03-05 12:32:35 - feat(alert): add alert support (12/20)
 ## 2022-05-08 09:22:37 - feat(log): add log endpoint (9/20)
+## 2022-06-04 18:19:40 - feat(model): create model handler (17/20)
