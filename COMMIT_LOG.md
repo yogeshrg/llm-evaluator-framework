@@ -363,3 +363,4 @@
 ## 2022-07-09 13:43:01 - feat(api): implement api feature (6/20)
 ## 2022-07-09 18:01:54 - feat(api): implement api module (8/20)
 ## 2022-09-10 19:16:32 - feat(db): add db support (5/20)
+## 2022-09-25 11:41:06 - feat(log): create log handler (11/20)
