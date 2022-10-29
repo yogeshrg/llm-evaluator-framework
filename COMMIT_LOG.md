@@ -149,3 +149,4 @@
 ## 2022-09-25 22:18:15 - feat(model): add model support (8/20)
 ## 2022-10-06 14:18:58 - feat(model): implement model module
 ## 2022-10-16 16:53:23 - feat(build): implement build module (14/20)
+## 2022-10-29 09:04:18 - feat(deploy): create deploy handler (4/20)
