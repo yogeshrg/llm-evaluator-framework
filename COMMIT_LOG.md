@@ -371,3 +371,4 @@
 ## 2022-11-19 13:35:52 - feat(alert): implement alert feature (1/20)
 ## 2022-12-04 18:50:38 - feat(worker): implement worker feature (2/20)
 ## 2022-12-17 13:50:24 - feat(build): add build support (12/20)
+## 2022-12-18 13:47:12 - feat(ui): add ui support (16/20)
