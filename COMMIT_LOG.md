@@ -156,3 +156,4 @@
 ## 2022-12-18 13:47:12 - feat(ui): add ui support (16/20)
 ## 2023-01-07 21:32:24 - feat(test): create test handler (20/20)
 ## 2023-01-14 15:35:46 - feat(config): create config handler (5/20)
+## 2023-01-15 16:47:38 - feat(log): add log support (8/20)
