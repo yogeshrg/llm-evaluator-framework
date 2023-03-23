@@ -159,3 +159,4 @@
 ## 2023-01-15 16:47:38 - feat(log): add log support (8/20)
 ## 2023-01-26 22:02:37 - feat(infra): add infra support
 ## 2023-01-28 20:51:30 - feat(docs): add docs support (18/20)
+## 2023-03-23 15:07:13 - feat(data): create data handler
