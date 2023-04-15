@@ -381,3 +381,4 @@
 ## 2023-03-25 16:36:20 - feat(monitor): implement monitor module (19/20)
 ## 2023-04-09 11:06:35 - feat(api): create api handler (15/20)
 ## 2023-04-09 13:59:18 - feat(docs): implement docs feature (7/20)
+## 2023-04-15 12:49:58 - feat(deploy): add deploy endpoint (17/20)
