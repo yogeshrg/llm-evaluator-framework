@@ -57,3 +57,4 @@
 ## 2023-04-15 12:49:58 - feat(deploy): add deploy endpoint (17/20)
 ## 2023-04-30 23:00:30 - feat(cache): implement cache module (4/20)
 ## 2023-05-07 17:54:49 - feat(core): create core handler (17/20)
+## 2023-06-04 16:10:27 - feat(model): add model support (20/20)
