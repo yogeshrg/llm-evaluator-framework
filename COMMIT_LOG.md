@@ -389,3 +389,4 @@
 ## 2023-08-20 10:20:50 - feat(build): implement build module (12/20)
 ## 2023-09-16 18:12:33 - feat(api): implement api feature (7/20)
 ## 2023-09-20 23:07:38 - feat(infra): create infra handler
+## 2023-12-10 10:34:27 - feat(infra): implement infra feature (1/20)
