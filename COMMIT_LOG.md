@@ -400,3 +400,4 @@
 ## 2024-03-25 16:37:18 - feat(monitor): add monitor support
 ## 2024-04-21 21:14:48 - feat(ci): add ci support (14/20)
 ## 2024-05-26 12:45:40 - feat(config): implement config feature (16/20)
+## 2024-06-02 14:10:22 - feat(test): implement test feature (4/20)
