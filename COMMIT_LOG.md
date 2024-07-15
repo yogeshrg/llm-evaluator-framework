@@ -75,3 +75,4 @@
 ## 2024-05-26 12:45:40 - feat(config): implement config feature (16/20)
 ## 2024-06-02 14:10:22 - feat(test): implement test feature (4/20)
 ## 2024-06-18 20:25:38 - feat(auth): implement auth feature
+## 2024-07-15 10:26:44 - feat(security): add security endpoint
