@@ -405,3 +405,4 @@
 ## 2024-07-15 10:26:44 - feat(security): add security endpoint
 ## 2024-09-07 21:42:45 - feat(config): implement config feature (19/20)
 ## 2024-10-20 18:54:29 - feat(queue): implement queue feature (18/20)
+## 2024-10-26 18:09:07 - feat(deploy): create deploy handler (1/20)
