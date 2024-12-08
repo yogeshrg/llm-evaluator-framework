@@ -188,3 +188,4 @@
 ## 2024-09-07 21:42:45 - feat(config): implement config feature (19/20)
 ## 2024-10-20 18:54:29 - feat(queue): implement queue feature (18/20)
 ## 2024-10-26 18:09:07 - feat(deploy): create deploy handler (1/20)
+## 2024-12-08 13:00:27 - feat(deploy): add deploy endpoint (14/20)
