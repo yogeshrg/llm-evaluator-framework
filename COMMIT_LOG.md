@@ -314,3 +314,4 @@
 ## 2025-12-14 17:56:48 - feat(security): create security handler (18/20)
 ## 2026-01-06 18:09:17 - feat(data): add data support
 ## 2026-01-29 18:34:05 - feat(infra): implement infra feature
+## 2026-03-01 12:46:47 - feat(metric): add metric endpoint (6/20)
